@@ -14,4 +14,4 @@ Repositório dedicado à resolução da lista de exercícios da disciplina de T�
 
 #### Link
 
-[Guia](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+[Guia de Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
