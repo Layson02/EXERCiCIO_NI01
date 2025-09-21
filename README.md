@@ -18,4 +18,4 @@ Repositório dedicado à resolução da lista de exercícios da disciplina de T�
 
 ##### Imagem
 
-![Logo do GitHub]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://avatars.githubusercontent.com/u/100663009?v=4))
+![Logo do GitHub](https://avatars.githubusercontent.com/u/100663009?v=4)
