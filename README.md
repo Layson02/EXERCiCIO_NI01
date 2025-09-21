@@ -5,3 +5,13 @@ Repositório dedicado à resolução da lista de exercícios da disciplina de T�
 ## Layson Victor
 
 * Ciência da Computação
+
+### Lista
+
+1. Criação de Repositório
+2. Nome
+3. Guia de Markdown
+
+#### Link
+
+[Guia]([https://github.com](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet))
