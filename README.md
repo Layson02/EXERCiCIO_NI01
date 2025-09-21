@@ -18,4 +18,4 @@ Repositório dedicado à resolução da lista de exercícios da disciplina de T�
 
 ##### Imagem
 
-![Minha linda foto](https://avatars.githubusercontent.com/u/100663009?v=4)
+[Minha linda foto](https://avatars.githubusercontent.com/u/100663009?v=4)
